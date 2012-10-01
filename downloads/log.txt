@@ -1,0 +1,1 @@
+Place your IPUMS (http://usa.ipums.org/usa) data abstract in this directory.

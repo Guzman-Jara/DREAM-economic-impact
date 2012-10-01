@@ -1,0 +1,10 @@
+target_ttl_undocument_by_state.csv
+  6-6-12
+  Handmade CSV off of the data found in - http://www.pewhispanic.org/files/2011/02/2011-unauthorized-immigration-16.png
+
+occ_90-00_xwalk.csv
+  Hand altered to include only relevant information from downloads/occ_90-00.xls
+  No information altered, only columns and superfluous lines removed.
+
+occ_80_codes.csv
+  Hand made using data from http://usa.ipums.org/usa/volii/98occup.shtml

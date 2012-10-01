@@ -1,0 +1,33 @@
+usa_00009.dat
+usa_00009.dat.gz
+usa_00009.do
+  6-6-12
+  http://usa.ipums.org
+  An IPUMs 5-yr acs 2010 data request with just sex, empstat, and region
+
+cps_00033.do
+cps_00033.dat.gz
+cps_00033.dat
+  6-5-12
+  http://cps.ipums.org/
+  An IPUMs CPS data request (with the expanded file)
+
+LPSbook.pdf
+  6-1-12
+  http://mmp.opr.princeton.edu/LPS/LPSbook.pdf
+  Codebook for the Legalized Person Survey
+
+LPSreadme.pdf
+  6-1-12
+  http://mmp.opr.princeton.edu/LPS/LPSreadme.pdf
+  Readme for the Legalized Person Survey
+
+lps.dta.zip
+  6-1-12
+  http://mmp.opr.princeton.edu/LPS/lps.dta.zip
+  Dataset for the Legalized Person Survey
+
+occ_90-00.xls
+  6-2-12
+  http://usa.ipums.org/usa/resources/chapter4/occ_90-00.xls
+  Crosswalk for converting 1990 census occ codes to 2000 census occ codes
