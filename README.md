@@ -11,7 +11,7 @@ We, the authors of the report, are releasing this code in the spirit of openness
 The [Stata](http://www.stata.com) code (we used version 12.1) necessary to create a dataset of undocumented immigrants.
 The Stata code that uses that data set to create an estimate of the direct economic impact of the DREAM Act.
 Some excel and csv files necessary for the code to run.
-A copy of the [Legalized Person Survey]("http://mmp.opr.princeton.edu/LPS/LPSpage.htm") dataset, for convenience.
+A copy of the [Legalized Population Survey]("http://mmp.opr.princeton.edu/LPS/LPSpage.htm") dataset, for convenience.
 Some CPS data relating to the economic conditions
 Some select stata dta files, for convenience.
 
